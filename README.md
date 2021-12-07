@@ -1,5 +1,5 @@
 # curse
-A compiled programming language written in c++ designed to learn how lexing, parsing evaluating and an LLVM backend work.
+A compiled programming language written in standard c++ designed to learn how lexing, parsing evaluating and an LLVM backend work.
 
 <h1>Example Syntax</h1>
 <p>| Example Code |<p>
@@ -10,9 +10,9 @@ A compiled programming language written in c++ designed to learn how lexing, par
 <p>  return 0</p>
 <p></p>
 <p>model banana</p>
-<p>  int a</p>
-<p>  char b</p>
-<p>  double c</p>
-<p>  float d</p>
-<p>  int d -> a * a</p>
-<p>  int e -> for(x [1..10], y [2,3..20]) </p>
+<p>\tint a</p>
+<p>\tchar b</p>
+<p>\tdouble c</p>
+<p>\tfloat d</p>
+<p>\tint d -> a * a</p>
+<p>\tint e -> for(x [1..10], y [2,3..20]) </p>
